@@ -1,0 +1,17 @@
+python3 -u "/Volumes/Mac File/Python Projects/Dice_simulator.py"
+(.venv) abhishekzamare@abhisheks-MacBook-Air Python Projects % python3 -u "/Volumes/Mac File/Python Projects/Dice_simulator.py"
+How many dice You want to roll? : 2
+┌───────────┐ ┌───────────┐ 
+│  ●     ●  │ │           │ 
+│           │ │     ●     │ 
+│  ●     ●  │ │           │ 
+└───────────┘ └───────────┘ 
+total:5
+(.venv) abhishekzamare@abhisheks-MacBook-Air Python Projects % python3 -u "/Volumes/Mac File/Python Projects/Dice_simulator.py"
+How many dice You want to roll? : 6
+┌───────────┐ ┌───────────┐ ┌───────────┐ ┌───────────┐ ┌───────────┐ ┌───────────┐ 
+│  ●     ●  │ │  ●     ●  │ │  ●     ●  │ │  ●        │ │  ●        │ │  ●     ●  │ 
+│           │ │     ●     │ │           │ │     ●     │ │           │ │     ●     │ 
+│  ●     ●  │ │  ●     ●  │ │  ●     ●  │ │        ●  │ │        ●  │ │  ●     ●  │ 
+└───────────┘ └───────────┘ └───────────┘ └───────────┘ └───────────┘ └───────────┘ 
+total:23
